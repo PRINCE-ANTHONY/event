@@ -1,5 +1,4 @@
-# HTML Project  - Event Page
-
+# HTML Project
 Welcome to my HTML Project repository! This repository contains the final code for the completed project.This aims to provide comprehensive knowledge about HTML and guide you through building two exciting projects: an Event Page and a project focused on Tables and Forms.
 
 ## Project: Event Page
